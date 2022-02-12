@@ -1,0 +1,14 @@
+h1{
+    color: brown;
+}
+.hover-h1{
+    color: cornflowerblue;
+}
+.hover-h1:hover{
+    font-size: 50px;
+    color: darkgreen;
+}
+input:focus{
+    font-size: 25px;
+    color: red;
+}
